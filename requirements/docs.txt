@@ -3,3 +3,4 @@ Sphinx==1.6.5
 sphinx-intl==0.9.10
 sphinx-rtd-theme==0.2.4
 sphinxcontrib-plantuml==0.8.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
